@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.smartdoc.document_caller",
+      "sha256_cert_fingerprints": [
+        "CA:60:F7:6C:53:E4:EC:76:08:25:54:1F:27:A8:8F:6F:33:29:81:2A:20:61:18:4F:1B:1D:9F:8F:74:60:13:93"
+      ]
+    }
+  }
+]
